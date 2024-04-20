@@ -3,9 +3,9 @@ using namespace std;
 
 int main ()
 {
-    int temp_maxima;
-    int temp_minima;
-    int amplitud_termica;
+    float temp_maxima;
+    float temp_minima;
+    float amplitud_termica;
 
     cout << "Ingrese la temperatura maxima: ";
     cin >> temp_maxima;
