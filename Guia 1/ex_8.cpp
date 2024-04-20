@@ -7,7 +7,7 @@ int main()
     float importe_venta;
     float descuento;
     float porcentaje_descuento;
-    float total_a_pagar;
+    
 
     cout << "Ingrese el importe de la venta sin descuento: ";
     cin >> importe_venta;
