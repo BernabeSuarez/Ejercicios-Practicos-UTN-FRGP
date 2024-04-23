@@ -1,6 +1,6 @@
 ﻿**Guía de Ejercicios Nº 1.**
 
-**# Ejercicio.![]**
+**Ejercicios:**
 
 1 Hacer un programa para ingresar por teclado la cantidad de horas trabajadas por un operario y el valor que se le paga por hora trabajada y listar por pantalla el sueldo que le corresponda.
 1 Hacer un programa que solicite por teclado que se ingresen dos números y luego guardarlos en dos variables distintas. A continuación se deben intercambiar mutuamente los valores en ambas variables y mostrarlos por pantalla. Ejemplo: Suponiendo que se ingresan 3 y 8 como valores y que la variables usadas son Ay B, entonces A=3 y B=8, pero luego debe quedar A=8 y B=3.
