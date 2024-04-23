@@ -3,11 +3,11 @@ using namespace std;
 
 int main()
 {
-    int premio_por_auto = 700;
-    int sueldo_fijo = 5000;
-    int premio;
+    float premio_por_auto = 700;
+    float sueldo_fijo = 5000;
+    float premio;
     int autos_vendidos;
-    int sueldo_a_cobrar;
+    float sueldo_a_cobrar;
 
     cout << "Ingrese los autos vendidos: ";
     cin >> autos_vendidos;

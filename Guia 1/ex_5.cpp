@@ -3,9 +3,9 @@ using namespace std;
 
 int main ()
 {
-    float alf_A;
-    float alf_B;
-    float alf_C;
+    int alf_A;
+    int alf_B;
+    int alf_C;
     float total_venta;
     float porcentaje_A;
     float porcentaje_B;

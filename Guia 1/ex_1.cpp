@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    float horas_trabajadas;
+    int horas_trabajadas;
     float valor_hora;
     float sueldo;
 

@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    float asientos_totales;
-    float pasajes_vendidos;
-    float asientos_libres;
+    int asientos_totales;
+    int pasajes_vendidos;
+    int asientos_libres;
     float porcentaje_libres;
     float porcentaje_ocupados;
 
