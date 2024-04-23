@@ -4,9 +4,10 @@ using namespace std;
 
 int main()
 {
-    float asientos_totales;
-    float pasajes_vendidos;
-    float asientos_libres;
+    const int PORCENTAJE = 100;
+    int asientos_totales;
+    int pasajes_vendidos;
+    int asientos_libres;
     float porcentaje_libres;
     float porcentaje_ocupados;
 
@@ -18,9 +19,9 @@ int main()
 
     asientos_libres = asientos_totales - pasajes_vendidos;
     
-    porcentaje_ocupados = (pasajes_vendidos * 100) / asientos_totales;
+    porcentaje_ocupados = ((float)pasajes_vendidos * PORCENTAJE) / asientos_totales;
 
-    porcentaje_libres = (asientos_libres * 100)/ asientos_totales;
+    porcentaje_libres = ((float)asientos_libres * PORCENTAJE)/ asientos_totales;
 
 
     cout << " El porcentaje de ocupacion es del: " << porcentaje_ocupados << "%" << endl;
